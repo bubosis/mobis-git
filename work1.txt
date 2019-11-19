@@ -1,7 +1,7 @@
 right1
 2
 3
-left2
+rigit2
 5
 6
 
